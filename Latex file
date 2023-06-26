@@ -142,7 +142,7 @@
 
 
 
-\parbox{\dimexpr\linewidth-2.8cm\relax}{
+\parbox{\dimexpr\linewidth-0.25cm\relax}{
 \begin{tabularx}{\linewidth}{L r} \\
   \textbf{\Large \name} & {\raisebox{0.0\height}{\footnotesize \faPhone}\ +91-\phone}\\
   
